@@ -1,0 +1,33 @@
+.blog-image{
+    width: 100%;
+    height: 40vh;
+}
+.card-body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.card{
+    width: 60vw;
+    height: fit-content;
+    max-height: 90vh;
+    border: none;
+    overflow-y: scroll;
+    
+}
+.blog{
+    width: 100vw;
+    height: fit-content;
+}
+.cmnt-form-right{
+    width: 85%;
+}
+.publishe-date {
+    font-weight: 500;
+}
+.published-by{
+    font-weight: 500;
+}
+.user-name{
+    font-weight: 500;
+}
